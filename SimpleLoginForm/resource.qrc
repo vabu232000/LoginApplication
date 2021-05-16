@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Text document.txt</file>
+    </qresource>
+</RCC>
